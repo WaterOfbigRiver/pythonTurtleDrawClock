@@ -23,7 +23,7 @@ use pythonTurtle Draw Clock
 改进-->
 第三版：
 <br/>
-![第三版结果gif](https://github.com/WaterOfbigRiver/pythonTurtleDrawClock/blob/master/QQ%E6%88%AA%E5%9B%BE20191207190946.jpg)
+![第三版结果gif](https://github.com/WaterOfbigRiver/pythonTurtleDrawClock/blob/master/%E7%BB%98%E5%88%B6%E6%97%B6%E9%92%9F%20%E5%8A%A8%E6%80%81%E7%89%883.gif)
 <br/>
 ![第三版结果jgp](https://github.com/WaterOfbigRiver/pythonTurtleDrawClock/blob/master/QQ%E6%88%AA%E5%9B%BE20191207190946.jpg)
 <br/>
